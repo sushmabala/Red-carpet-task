@@ -90,16 +90,6 @@ Features with Screenshots:
 
 ![20ViewUserAgent](https://user-images.githubusercontent.com/67327058/117583173-54d2b980-b123-11eb-8357-71905f4f870e.png)
 
-# DataBase Structure
-![DB](https://user-images.githubusercontent.com/67327058/117583174-556b5000-b123-11eb-8626-32c01d464dca.png)
-
-# Docker
-
-<h4>sudo docker-compose up</h4>
-
-![DockerRun](https://user-images.githubusercontent.com/67327058/117611801-bf1a4700-b181-11eb-80a2-c6df384ebbf6.jpeg)
-
-
 
 
 
