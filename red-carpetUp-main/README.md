@@ -1,4 +1,4 @@
-# red-carpetUp-SecondTask
+# red-carpetUp-task
 
 The backend is made with Python Fastapi and uvicorn.
 Postgres is used as a database.
