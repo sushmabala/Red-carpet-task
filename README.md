@@ -4,7 +4,7 @@ The backend is made with Python Fastapi and uvicorn.
 Postgres is used as a database.
 
 
-Features with Screenshots:
+Features :
 1. List, view and edit users -  this can only be done by "agent" and "admin" roles
 2. Create a loan request on behalf of the user -  This can only be done by "agent" role. Loan can have 3 states - "NEW", "REJECTED", "APPROVED".
 3. Approval of loan request - This can only be done by an "admin" role.
