@@ -14,6 +14,7 @@ Features with Screenshots:
 7. Admin can view the loan filterd by approved and rejected 
 
 <h2> adminRegister <h2>
+  
 ![1adminRegister](https://user-images.githubusercontent.com/67327058/117583175-556b5000-b123-11eb-8f23-15a2274c9894.png)
 
 # adminLogin
