@@ -13,7 +13,7 @@ Features with Screenshots:
 6. Agent" and Admin can see everyone's loans filterd by date of loanRequest in descending.
 7. Admin can view the loan filterd by approved and rejected 
 
-# adminRegister
+<h2> adminRegister <h2>
 ![1adminRegister](https://user-images.githubusercontent.com/67327058/117583175-556b5000-b123-11eb-8f23-15a2274c9894.png)
 
 # adminLogin
