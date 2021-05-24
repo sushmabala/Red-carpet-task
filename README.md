@@ -2,7 +2,7 @@
 
 The backend is made with Python Fastapi and uvicorn.
 Postgres is used as a database.
-Docker is used for deployment. 
+
 
 Features with Screenshots:
 1. List, view and edit users -  this can only be done by "agent" and "admin" roles
